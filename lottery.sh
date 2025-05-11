@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # This application is a Lottery game created for fun.
-# Created by Sagar Awasthi
 
 echo ---------LOTTERY GAME---------------
 echo Please enter a number between 0 to 10
